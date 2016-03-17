@@ -6,6 +6,7 @@
     </appender>
 
     <logger name="sphere" level="WARN"/>
+    <logger name="io.sphere.sdk.http.HttpClient" level="TRACE"/>
     <logger name="com.ning" level="WARN"/>
     <logger name="com.ning.http.client" level="WARN"/>
     <logger name="org.javamoney.moneta.DefaultMonetaryContextFactory" level="WARN"/>
